@@ -1,0 +1,18 @@
+{
+  "ConnectionMode": "SERIAL",
+  "Name": "Lider",
+  "IPAddress": "127.0.0.1",
+  "IPPort": "8081",
+  "ComPort": "COM7",
+  "StopBits": 1,
+  "Parity": 0,
+  "DataBits": 8,
+  "Handshake": 0,
+  "DtrEnable": false,
+  "RtsEnable": false,
+  "InitialBaudRate": "9600",
+  "FinalBaudRate": "9600",
+  "ReadBufferSize": 1024,
+  "WriteBufferSize": 1024,
+  "Supplier": "SCALE_Lider"
+}

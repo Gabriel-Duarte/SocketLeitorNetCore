@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketLeitorNetCore", "SocketLeitorNetCore\SocketLeitorNetCore.csproj", "{164B8128-0F8F-410A-A05A-29F996EEEFE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{164B8128-0F8F-410A-A05A-29F996EEEFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164B8128-0F8F-410A-A05A-29F996EEEFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164B8128-0F8F-410A-A05A-29F996EEEFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164B8128-0F8F-410A-A05A-29F996EEEFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C52E4CA-1A76-4870-A34E-63E1FC7E6DAD}
+	EndGlobalSection
+EndGlobal

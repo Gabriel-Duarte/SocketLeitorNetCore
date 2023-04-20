@@ -1,0 +1,38 @@
+﻿{
+  "Balanca": "Balanca",
+  "Filial": "07",
+  "Ftp": "ftp://172.16.101.47:21/output/",
+  "LeitorModelo": "UHFReader",
+  "Segmentos": [
+    /* HOSPITALAR              */ "100001",
+    /* CLINICA                 */ "100003",
+    /* ESTERILIZAÇÃO           */ //"100002",
+    /* HOSPITAL IN LOCO        */ //"100004",
+    /* SMALL BUSINESS          */ "200001",
+    /* HOTEL                   */ //"200002",
+    /* HOTEL IN LOCO           */ //"200003",
+    /* TOALHAS INDUSTRIAIS     */ //"300001",
+    /* EPIS                    */ //"300002",
+    /* TOALHAS CONTINUAS       */ //"300003",
+    /* UNIFORMES PADRÃO        */ //"400001",
+    /* UNIFORMES HOSPITALIDADE */ //"400002",
+    /* UNIFORMES AGRONEGOCIO   */ //"400003",
+    /* UNIFORMES FRIGORIFICO   */ "400004"
+    /* UNIFORMES SALA LIMPA    */ //"400005"
+  ],
+  "TempoLeitura": "3",
+  "CabineUdoor": "N",
+  "CabineUdoorFrontDoor": "N",
+  "CabineUdoorRearDoor": "N",
+  "Chave": "jundiai123",
+  "DiferencaPeso": "S",
+  "valorPorcentagemPeso": "10",
+  "MinutosSync": "2",
+  "ModoOffline": "S",
+  "LerTudo": "S",
+  "FilialReaplicacao": "S",
+  "ChaveReaplicacao": "reap@elis2020",
+  "PesoManual": "S",
+  "Leitor": "S",
+  "TirarPeso": "N"
+}

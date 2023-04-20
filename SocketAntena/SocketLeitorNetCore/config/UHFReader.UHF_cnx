@@ -1,0 +1,51 @@
+{
+  "ConnectionMode": "SERIAL",
+  "Name": "ACUPAD100",
+  "IPAddress": "172.16.2.53",
+  "IPPort": "5084",
+  "IPPortA": "5085",
+  "ComPort": "COM4",
+  "InitialBaudRate": "115200",
+  "FinalBaudRate": "115200",
+  "KanbanAntenaList": [
+    1,
+    2,
+    0,
+    0
+  ],
+  "PositionAntenaList": [
+    1,
+    2,
+    2,
+    4
+  ],
+  "DirectionAntenaList": [
+    1,
+    1,
+    2,
+    2
+  ],
+  "AliveTagList": "300ED89F3350008CCCD16C71",
+  "ImproperTagList": "E0AABBBBFF00002222AAAAAA,E0AABBBBFF00002222AAAAAB,E0AABBBBFF00002222AAAAAC",
+  "SendAlwaysReadTags": false,
+  "SpecialParameter": "SINGLE",
+  "Supplier": "UHF_ThingMagic",
+  "AntenaList": [
+    {
+      "Antena": 1,
+      "Used": true
+    },
+    {
+      "Antena": 2,
+      "Used": false
+    },
+    {
+      "Antena": 3,
+      "Used": false
+    },
+    {
+      "Antena": 4,
+      "Used": false
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{"ParamName":"/reader/antenna/checkPort","ParamValue":"False","ParamWritable":true}
+{"ParamName":"/reader/antenna/connectedPortList","ParamValue":"[]","ParamWritable":false}
+{"ParamName":"/reader/antenna/portList","ParamValue":"[1]","ParamWritable":false}
+{"ParamName":"/reader/antenna/portSwitchGpos","ParamValue":"[]","ParamWritable":true}
+{"ParamName":"/reader/antenna/returnLoss","ParamValue":"[[1,25]]","ParamWritable":false}
+{"ParamName":"/reader/antenna/settlingTimeList","ParamValue":"[[1,0],[2,0],[3,0],[4,0],[5,0],[6,0],[7,0],[8,0],[9,0],[10,0],[11,0],[12,0],[13,0],[14,0],[15,0],[16,0]]","ParamWritable":false}
+{"ParamName":"/reader/antenna/txRxMap","ParamValue":"[[1,1,1]]","ParamWritable":true}
+{"ParamName":"/reader/baudRate","ParamValue":"115200","ParamWritable":true}
+{"ParamName":"/reader/commandTimeout","ParamValue":"1000","ParamWritable":true}
+{"ParamName":"/reader/gen2/accessPassword","ParamValue":"{\"Value\":0}","ParamWritable":true}
+{"ParamName":"/reader/gen2/bap","ParamValue":"{\"POWERUPDELAY\":3000,\"FREQUENCYHOPOFFTIME\":20000}","ParamWritable":true}
+{"ParamName":"/reader/gen2/BLF","ParamValue":"250","ParamWritable":true}
+{"ParamName":"/reader/gen2/initQ","ParamValue":"UNKNOWN PARAMETER :/reader/gen2/initQ","ParamWritable":false}
+{"ParamName":"/reader/gen2/protocolExtension","ParamValue":"NOT AVAILABLE","ParamWritable":false}
+{"ParamName":"/reader/gen2/q","ParamValue":"DynamicQ","ParamWritable":true}
+{"ParamName":"/reader/gen2/sendSelect","ParamValue":"UNKNOWN PARAMETER :/reader/gen2/sendSelect","ParamWritable":false}
+{"ParamName":"/reader/gen2/session","ParamValue":"2","ParamWritable":true}
+{"ParamName":"/reader/gen2/t4","ParamValue":"NOT AVAILABLE","ParamWritable":false}
+{"ParamName":"/reader/gen2/tagEncoding","ParamValue":"2","ParamWritable":true}
+{"ParamName":"/reader/gen2/target","ParamValue":"0","ParamWritable":true}
+{"ParamName":"/reader/gen2/tari","ParamValue":"0","ParamWritable":true}
+{"ParamName":"/reader/gen2/writeEarlyExit","ParamValue":"True","ParamWritable":true}
+{"ParamName":"/reader/gen2/writeMode","ParamValue":"0","ParamWritable":true}
+{"ParamName":"/reader/gen2/writeReplyTimeout","ParamValue":"20000","ParamWritable":true}
+{"ParamName":"/reader/gpio/inputList","ParamValue":"[3,4]","ParamWritable":false}
+{"ParamName":"/reader/gpio/outputList","ParamValue":"[1,2]","ParamWritable":false}
+{"ParamName":"/reader/licenseKey","ParamValue":"INVISIBLE VALUE","ParamWritable":false}
+{"ParamName":"/reader/manageLicenseKey","ParamValue":"INVISIBLE VALUE","ParamWritable":false}
+{"ParamName":"/reader/metadata","ParamValue":"ALL","ParamWritable":false}
+{"ParamName":"/reader/powerMode","ParamValue":"FULL","ParamWritable":true}
+{"ParamName":"/reader/probeBaudRates","ParamValue":"[9600,115200,921600,19200,38400,57600,230400,460800]","ParamWritable":false}
+{"ParamName":"/reader/radio/enablePowerSave","ParamValue":"False","ParamWritable":true}
+{"ParamName":"/reader/radio/portReadPowerList","ParamValue":"[]","ParamWritable":true}
+{"ParamName":"/reader/radio/portWritePowerList","ParamValue":"[]","ParamWritable":true}
+{"ParamName":"/reader/radio/powerMax","ParamValue":"2700","ParamWritable":false}
+{"ParamName":"/reader/radio/powerMin","ParamValue":"0","ParamWritable":false}
+{"ParamName":"/reader/radio/readPower","ParamValue":"1500","ParamWritable":true}
+{"ParamName":"/reader/radio/temperature","ParamValue":"36","ParamWritable":false}
+{"ParamName":"/reader/radio/writePower","ParamValue":"2700","ParamWritable":true}
+{"ParamName":"/reader/read/asyncOffTime","ParamValue":"0","ParamWritable":true}
+{"ParamName":"/reader/read/asyncOnTime","ParamValue":"250","ParamWritable":true}
+{"ParamName":"/reader/read/plan","ParamValue":"{\"Protocol\":5,\"Antennas\":[1],\"Filter\":null,\"Op\":null,\"UseFastSearch\":false,\"CustAntConfig\":null,\"IsCustomAntConfig\":false,\"ReadTrigger\":null,\"Weight\":1000,\"enableAutonomousRead\":false}","ParamWritable":true}
+{"ParamName":"/reader/read/trigger/gpi","ParamValue":"NOT AVAILABLE","ParamWritable":false}
+{"ParamName":"/reader/region/dwellTime","ParamValue":"UNKNOWN PARAMETER :/reader/region/dwellTime","ParamWritable":false}
+{"ParamName":"/reader/region/dwellTime/enable","ParamValue":"UNKNOWN PARAMETER :/reader/region/dwellTime/enable","ParamWritable":false}
+{"ParamName":"/reader/region/hopTable","ParamValue":"[926000,919600,924800,922600,921600,925200,918400,919200,923600,921800,923200,920200,919400,921200,926600,926800,920800,924400,923800,921000,924600,922000,917800,922800,919000,917400,926400,924000,919800,926200,925000,918600,918800,923000,918200,927000,925400,922200,922400,917600,920400,925800,920600,924200,918000,927200,920000,921400,923400,925600]","ParamWritable":true}
+{"ParamName":"/reader/region/hopTime","ParamValue":"375","ParamWritable":true}
+{"ParamName":"/reader/region/id","ParamValue":"13","ParamWritable":true}
+{"ParamName":"/reader/region/lbt/enable","ParamValue":"False","ParamWritable":true}
+{"ParamName":"/reader/region/lbtThreshold","ParamValue":"UNKNOWN PARAMETER :/reader/region/lbtThreshold","ParamWritable":false}
+{"ParamName":"/reader/region/minimumFrequency","ParamValue":"NOT AVAILABLE","ParamWritable":false}
+{"ParamName":"/reader/region/quantizationStep","ParamValue":"NOT AVAILABLE","ParamWritable":false}
+{"ParamName":"/reader/region/supportedRegions","ParamValue":"[13,14,4,5,6,8,9,11,12,16,17,18,19,20,21,22,23,24,25,26,27,28,29,255]","ParamWritable":false}
+{"ParamName":"/reader/regulatory/enable","ParamValue":"UNKNOWN PARAMETER :/reader/regulatory/enable","ParamWritable":false}
+{"ParamName":"/reader/regulatory/mode","ParamValue":"UNKNOWN PARAMETER :/reader/regulatory/mode","ParamWritable":false}
+{"ParamName":"/reader/regulatory/modulation","ParamValue":"UNKNOWN PARAMETER :/reader/regulatory/modulation","ParamWritable":false}
+{"ParamName":"/reader/regulatory/offTime","ParamValue":"UNKNOWN PARAMETER :/reader/regulatory/offTime","ParamWritable":false}
+{"ParamName":"/reader/regulatory/onTime","ParamValue":"UNKNOWN PARAMETER :/reader/regulatory/onTime","ParamWritable":false}
+{"ParamName":"/reader/statistics","ParamValue":"NOT AVAILABLE","ParamWritable":false}
+{"ParamName":"/reader/stats","ParamValue":"\n\nAntenna Connection Status\n Antenna 1 |  Disconnected\n\n\nNoise Floor With TX ON\n Antenna 1 | -60 dBm\n\n\nRF ON Time\n Antenna 1 | 37611 ms\n\n\nFrequency: 926000 kHz\nTemperature: 36 C\nProtocol: GEN2\nCurrent Antenna: 1\n","ParamWritable":false}
+{"ParamName":"/reader/stats/enable","ParamValue":"ALL","ParamWritable":true}
+{"ParamName":"/reader/status/antennaEnable","ParamValue":"False","ParamWritable":true}
+{"ParamName":"/reader/status/frequencyEnable","ParamValue":"False","ParamWritable":true}
+{"ParamName":"/reader/status/temperatureEnable","ParamValue":"False","ParamWritable":true}
+{"ParamName":"/reader/tagop/antenna","ParamValue":"0","ParamWritable":false}
+{"ParamName":"/reader/tagop/protocol","ParamValue":"5","ParamWritable":true}
+{"ParamName":"/reader/tagReadData/enableReadFilter","ParamValue":"True","ParamWritable":true}
+{"ParamName":"/reader/tagReadData/readFilterTimeout","ParamValue":"-1","ParamWritable":true}
+{"ParamName":"/reader/tagReadData/recordHighestRssi","ParamValue":"False","ParamWritable":true}
+{"ParamName":"/reader/tagReadData/reportRssiInDbm","ParamValue":"True","ParamWritable":true}
+{"ParamName":"/reader/tagReadData/tagopFailures","ParamValue":"0","ParamWritable":false}
+{"ParamName":"/reader/tagReadData/tagopSuccesses","ParamValue":"0","ParamWritable":false}
+{"ParamName":"/reader/tagReadData/uniqueByAntenna","ParamValue":"True","ParamWritable":true}
+{"ParamName":"/reader/tagReadData/uniqueByData","ParamValue":"False","ParamWritable":true}
+{"ParamName":"/reader/tagReadData/uniqueByProtocol","ParamValue":"False","ParamWritable":true}
+{"ParamName":"/reader/transportTimeout","ParamValue":"5000","ParamWritable":true}
+{"ParamName":"/reader/uri","ParamValue":"eapi:///COM4","ParamWritable":false}
+{"ParamName":"/reader/userConfig","ParamValue":"NOT AVAILABLE","ParamWritable":false}
+{"ParamName":"/reader/userMode","ParamValue":"NONE","ParamWritable":false}
+{"ParamName":"/reader/version/hardware","ParamValue":"30.00.00.02","ParamWritable":false}
+{"ParamName":"/reader/version/model","ParamValue":"M6e Nano","ParamWritable":false}
+{"ParamName":"/reader/version/productGroup","ParamValue":"Embedded Reader","ParamWritable":false}
+{"ParamName":"/reader/version/productGroupID","ParamValue":"0","ParamWritable":false}
+{"ParamName":"/reader/version/productID","ParamValue":"17","ParamWritable":false}
+{"ParamName":"/reader/version/serial","ParamValue":"311800677029640JJ+","ParamWritable":false}
+{"ParamName":"/reader/version/software","ParamValue":"01.09.00.1B-20.18.07.18-BL14.12.08.00","ParamWritable":false}
+{"ParamName":"/reader/version/supportedProtocols","ParamValue":"[5]","ParamWritable":false}
